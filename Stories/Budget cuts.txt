@@ -1,0 +1,130 @@
+<story>
+	<gaps>
+		<name 1>
+			<attribute gender="undefined"/>
+			<description>Surname</description>
+		</name>
+		<name 2>
+			<attribute gender="undefined"/>
+			<description>Surname</description>
+		</name>
+		<name 3>
+			<attribute gender="undefined"/>
+			<description>Surname</description>
+		</name>
+		<phrase 1>
+			<attribute type="quote"/>
+			<description>Statement/Comment</description>
+		</phrase>
+		<phrase 2>
+			<attribute type="quote"/>
+			<description>Statement/Comment</description>
+		</phrase>
+		<phrase 3>
+			<attribute type="quote"/>
+			<description>Statement/Comment</description>
+		</phrase>
+		<number 1>
+			<attribute type="Int"/>
+			<attribute range="1 < X"/>
+			<description>Positive Number, greater 1</description>
+		</number>
+		<number 2>
+			<attribute type="Int"/>
+			<attribute range="1 < X"/>
+			<description>Positive Number, greater 1</description>
+		</number>
+		<number 3>
+			<attribute type="Int"/>
+			<attribute range="1 < X"/>
+			<description>Positive Number, greater 1</description>
+		</number>
+		<number 4>
+			<attribute type="Int"/>
+			<attribute range="1 < X"/>
+			<description>Positive Number, greater 1</description>
+		</number>
+		<number 5>
+			<attribute type="Int"/>
+			<attribute range="1 < X"/>
+			<description>Positive Number, greater 1</description>
+		</number>
+		<noun 1>
+			<attribute number="singular"/>
+			<attribute type="object"/>
+			<description>Concept</description>
+		</noun>
+		<noun 2>
+			<attribute number="plural"/>
+			<attribute type="object"/>
+			<description>Objects</description>
+		</noun>
+		<noun 3>
+			<attribute number="plural"/>
+			<attribute type="object"/>
+			<description>Objects</description>
+		</noun>
+		<noun 4>
+			<attribute number="singular"/>
+			<attribute type="object"/>
+			<description>Object</description>
+		</noun>
+		<noun 5>
+			<attribute number="plural"/>
+			<attribute type="object"/>
+			<description>Objects</description>
+		</noun>
+		<noun 6>
+			<attribute number="plural"/>
+			<attribute type="object"/>
+			<description>Objects</description>
+		</noun>
+		<noun 7>
+			<attribute number="plural"/>
+			<attribute type="person"/>
+			<description>People (Plural of person)</description>
+		</noun>
+		<noun 8>
+			<attribute number="plural"/>
+			<attribute type="object"/>
+			<description>Objects</description>
+		</noun>
+		<noun 9>
+			<attribute number="plural"/>
+			<attribute type="person"/>
+			<description>People (Plural of person)</description>
+		</noun>
+		<adjective 1>
+			<attribute comparison="positive"/>
+			<description>Adjective in positive</description>
+		</adjective>
+		<adjective 2>
+			<attribute comparison="positive"/>
+			<description>Adjective in positive</description>
+		</adjective>
+		<adjective 3>
+			<attribute comparison="comparative"/>
+			<description>Adjective in comparative</description>
+		</adjective>
+		<adjective 4>
+			<attribute comparison="positive"/>
+			<description>Adjective in positive</description>
+		</adjective>
+		<adjective 5>
+			<attribute comparison="positive"/>
+			<description>Adjective in positive</description>
+		</adjective>
+		<adjective 6>
+			<attribute comparison="positive"/>
+			<description>Adjective in positive</description>
+		</adjective>
+	</gaps>
+	<text>
+Yesterday afternoon President [name 1] and treasury secretary [name 2] held a press conference to announce the budget for the coming fiscal year. The budget contains a number of cuts to federal agencies, which [name 2] defended as necessary given the economic decline, saying that "[phrase 1]"
+The most severe cuts are in the department of [noun 1]. Starting on the 1st of January, all employees will be paid [number 1] [noun 2] per month. Retirement savings will be used to fill financial gaps. Instead the employees will receive [noun 3] once they retire. The minimum retirement age has also been raised to [number 2], in order to avoid having to hire new employees for those leaving.
+Another area that will be affected by the budget cuts announced by [name 1] and [name 2] is infrastructure. Bridges and damns will only be inspected every [number 3] years. A new policy dictates that roads will only be mended if the holes in them are large enough to fit a [noun 4] in them. And traffic lights will be replaced by [adjective 1] police officers working on a voluntary basis.
+Furthermore, the military will experience severe cuts. Instead of machine guns, soldiers are going to use [adjective 2] [noun 5] in order to defend themselves. Tanks will fire [noun 6] instead of the [adjective 3] munition they used before. Battle ships will be controlled remotely by a group of [number 4] year old [noun 7]. The secretary of defence later commented: "[phrase 2]"
+The opposition heavily critiqued these plans. "[phrase 3]" said opposition leader [name 3] in the evening, adding that these cuts are only necessary because President [name 1] failed to address economic issues such as the [adjective 4] [noun 8] and the vast number of [noun 9] in the streets. "In his [number 5] years in office [name 1] never took action to aide the [adjective 5] people in this country."
+A [adjective 6] debate on the new budget is scheduled for next Wednesday.
+	</text>
+</story>

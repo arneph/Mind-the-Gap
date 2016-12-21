@@ -1,0 +1,109 @@
+<story>
+	<gaps>
+		<name 1>
+			<attribute gender="undefined"/>
+			<description>Fantasy name</description>
+		</name>
+		<name 2>
+			<attribute gender="male"/>
+			<description>Male name</description>
+		</name>
+		<name 3>
+			<attribute gender="undefined"/>
+			<description>name</description>
+		</name>
+		<name 4>
+			<attribute gender="female"/>
+			<description>Female name</description>
+		</name>
+		<phrase 1>
+			<attribute type="advice"/>
+			<description>Word of advice</description>
+		</phrase>
+		<phrase 2>
+			<attribute type="quote"/>
+			<description>Quote</description>
+		</phrase>
+		<number 1>
+			<attribute type="Int"/>
+			<attribute range="1 < X"/>
+			<description>Positive Number, greater 1</description>
+		</number>
+		<number 2>
+			<attribute type="Double"/>
+			<attribute range="0 < X"/>
+			<description>Decimal Number, greater 0</description>
+		</number>
+		<noun 1>
+			<attribute number="singular"/>
+			<attribute type="object"/>
+			<description>Object</description>
+		</noun>
+		<noun 2>
+			<attribute number="singular"/>
+			<attribute type="person"/>
+			<description>Professional, someone practicing a profession</description>
+		</noun>
+		<noun 3>
+			<attribute number="plural"/>
+			<attribute type="object"/>
+			<description>Plural Object</description>
+		</noun>
+		<noun 4>
+			<attribute number="singular"/>
+			<attribute type="object"/>
+			<description>Object</description>
+		</noun>
+		<verb 1>
+			<attribute form="progressive"/>
+			<description>Verb in -ing form</description>
+		</verb>
+		<verb 2>
+			<attribute form="infinitive"/>
+			<description>Verb in infinitive, to be followed by object: ___ something</description>
+		</verb>
+		<verb 3>
+			<attribute form="infinitive"/>
+			<description>Verb in infinitive, to be followed by object: ___ something</description>
+		</verb>
+		<verb 4>
+			<attribute form="infinitive"/>
+			<description>Verb in infinitive, to stand alone</description>
+		</verb>
+		<adjective 1>
+			<attribute comparison="comparative"/>
+			<description>Adjective in comparative</description>
+		</adjective>
+		<adjective 2>
+			<attribute comparison="positive"/>
+			<description>Adjective in positive</description>
+		</adjective>
+		<adjective 3>
+			<attribute comparison="positive"/>
+			<description>Adjective in positive</description>
+		</adjective>
+		<adjective 4>
+			<attribute comparison="positive"/>
+			<description>Adjective in positive</description>
+		</adjective>
+		<adjective 5>
+			<attribute comparison="positive"/>
+			<description>Adjective in positive</description>
+		</adjective>
+	</gaps>
+	<text>
+Once upon a time in a far away land - the land of [name 1] there reigned an unhappy king. King [name 2] was concerned about his empire, because all his citizens were constantly [verb 1]. From the moment they got up, till the moment they fell asleep, all day, everyday, everyone was constantly [verb 1]. It became so annoying for King [name 2], that he eventually decided to [verb 2] a [noun 1]. But it didn't help. Everyone was just [verb 1] even [adjective 1].
+	
+The King then decided to hire a [noun 2]. The King went to great lengths to pay the [noun 2]. He gathered almost his entire fortune. In the end the [noun 2] received [number 1] [noun 3]. But it didn't help. The problem just got worse.
+	
+In all his despair, King [name 2] advised his aides to go out, and search his entire Kingdom, from North to South, East to West, all [number 2] acres of it, in search for someone with an idea. One of his aides met a fellow named [name 3]. [name 3] was [adjective 2], and told the King to [verb 3] all the citizens. The King was very hopeful. And so they tried. But it didn't work.
+	
+Out of resources and ideas, the King sat down on his [adjective 3] throne. Then his youngest daughter [name 4], named after a [adjective 4] [noun 4], came in. She saw her father and asked him: "What's wrong daddy?" And so King [name 2] told her about, how all the citizens were [verb 1] all the time. [name 4] thought for a few seconds. Then she said: "[phrase 1]" And then, slowly but surely, the King started smiling. Yes! That was it, that was the solution! He finally knew how to end this madness!
+	
+The next day, in the middle of his castle, with everyone around, the King proclaimed: "From now on, everyone in this [adjective 5] Kingdom of ours, whenever he or she is [verb 1] again, shall [verb 4] immediately." And from there on, no one in the Kingdom was ever seen [verb 1] again. The King was so thankful for his daughter that he built her a statue the next day. Underneath it said: "[phrase 2]".
+	
+And so they lived happily ever after.
+
+The End.
+	</text>
+</story>

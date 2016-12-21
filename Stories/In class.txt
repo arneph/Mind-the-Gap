@@ -1,0 +1,147 @@
+<story>
+	<gaps>
+		<name 1>
+			<attribute gender="undefined"/>
+			<description>First name, male</description>
+		</name>
+		<name 2>
+			<attribute gender="undefined"/>
+			<description>Surname</description>
+		</name>
+		<name 3>
+			<attribute gender="undefined"/>
+			<description>Surname</description>
+		</name>
+		<name 4>
+			<attribute gender="undefined"/>
+			<description>Country</description>
+		</name>
+		<name 5>
+			<attribute gender="undefined"/>
+			<description>First name</description>
+		</name>
+		<name 6>
+			<attribute gender="undefined"/>
+			<description>First name</description>
+		</name>
+		<name 7>
+			<attribute gender="undefined"/>
+			<description>First name</description>
+		</name>
+		<name 8>
+			<attribute gender="undefined"/>
+			<description>First name</description>
+		</name>
+		<name 9>
+			<attribute gender="undefined"/>
+			<description>First name</description>
+		</name>
+		<phrase 1>
+			<attribute type="quote"/>
+			<description>Thought</description>
+		</phrase>
+		<phrase 2>
+			<attribute type="advice"/>
+			<description>Word of advice</description>
+		</phrase>
+		<number 1>
+			<attribute type="Int"/>
+			<attribute range="1 < X"/>
+			<description>Positive Number, greater 1</description>
+		</number>
+		<number 2>
+			<attribute type="Int"/>
+			<attribute range="1 < X"/>
+			<description>Positive Number, greater 1</description>
+		</number>
+		<number 3>
+			<attribute type="Int"/>
+			<attribute range="1 < X"/>
+			<description>Positive Number, greater 1</description>
+		</number>
+		<noun 1>
+			<attribute number="plural"/>
+			<attribute type="object"/>
+			<description>Objects</description>
+		</noun>
+		<noun 2>
+			<attribute number="plural"/>
+			<attribute type="object"/>
+			<description>Objects</description>
+		</noun>
+		<noun 3>
+			<attribute number="singular"/>
+			<attribute type="object"/>
+			<description>Object</description>
+		</noun>
+		<noun 4>
+			<attribute number="plural"/>
+			<attribute type="object"/>
+			<description>Objects</description>
+		</noun>
+		<verb 1>
+			<attribute form="progressive"/>
+			<description>Verb in -ing form, ___ something</description>
+		</verb>
+		<verb 2>
+			<attribute form="progressive"/>
+			<description>Verb in -ing form, ___ someone</description>
+		</verb>
+		<verb 3>
+			<attribute form="infinitive"/>
+			<description>Verb in infinitive, ___ something</description>
+		</verb>
+		<verb 4>
+			<attribute form="progressive"/>
+			<description>Verb in -ing form</description>
+		</verb>
+		<adjective 1>
+			<attribute comparison="positive"/>
+			<description>Adjective in positive</description>
+		</adjective>
+		<adjective 2>
+			<attribute comparison="positive"/>
+			<description>Adjective in positive</description>
+		</adjective>
+		<adjective 3>
+			<attribute comparison="positive"/>
+			<description>Adjective in positive</description>
+		</adjective>
+	</gaps>
+	<text>
+Mr. [name 2]: Now, who can tell me when [name 3] invaded [name 4]? [name 1]!
+[name 1]: It was 1692. [name 3] was at the zenith of his power, and the invasion of [name 4] was the beginning of the end of his empire.
+Mr. [name 2]: Very good [name 1]. Now, why did [name 3] decide to invade [name 4]?
+Mr. [name 2] waits a few seconds. [name 1] raises his hand.
+Mr. [name 2]: I know that you know the answer [name 1]. Does anyone else know it too?
+[name 1]: No. These [noun 1] spend all their time [verb 1] [noun 2].
+Mr. [name 2]: [name 2], shut up! Don't talk like that about your fellow class mates.
+[name 1]: But its true. They are utterly [adjective 1]. Yesterday I caught [name 5] [verb 2] [name 6] behind the gym.
+Mr. [name 2]: [name 5] is that true?
+[name 5]: Yes, sir. But [name 6] was asking for it.
+Mr. [name 2]: [name 6]?
+[name 6]: I'm sorry, sir. I feel [adjective 2] about my body.
+Mr. [name 2]: Then talk to the counsellor.
+[name 6]: I will, sir.
+Mr. [name 2]: And [name 5], apologise to [name 6].
+[name 5]: Sorry [name 6], you [adjective 3] [noun 3].
+Mr. [name 2]: [name 5], go and see the head master.
+[name 5] leaves the room.
+Mr. [name 2]: Now back to [name 3] and the invasion of [name 4]. Does anyone know why [name 3] decided to invade?
+[name 7]: Did he do it to [verb 3] the [noun 4] in [name 4]?
+Mr. [name 2]: Yes [name 7]. [name 3] invaded [name 4] to [verb 3] all the [noun 4].
+[name 7]: Oh, cool!
+Mr. [name 2]: No [name 7]. HOW STUPID ARE YOU?
+[name 7]: I'm sorry. I thought [phrase 1].
+Mr. [name 2]: What is wrong with you? Go and join [name 5] in the head masters office!
+[name 7] leaves the room.
+Mr. [name 2]: [name 8]. [name 9]. Stop [verb 4]. Both of you will write me an essay on the subject "[phrase 2]" until tomorrow. [number 1] words minimum.
+[name 8]: But...
+Mr. [name 2]: [number 2] words!
+[name 9]: But...
+Mr. [name 2]: [number 3] words!
+[name 8] and [name 9] keep quiet.
+Mr. [name 2]: Now back to [name 3].
+...
+	</text>
+</story>

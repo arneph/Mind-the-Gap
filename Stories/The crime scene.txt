@@ -1,0 +1,121 @@
+<story>
+	<gaps>
+		<name 1>
+			<attribute gender="female"/>
+			<description>Surname</description>
+		</name>
+		<name 2>
+			<attribute gender="undefined"/>
+			<description>Surname</description>
+		</name>
+		<name 3>
+			<attribute gender="undefined"/>
+			<description>City name</description>
+		</name>
+		<phrase 1>
+			<attribute type="quote"/>
+			<description>Thought</description>
+		</phrase>
+		<phrase 2>
+			<attribute type="quote"/>
+			<description>Thought</description>
+		</phrase>
+		<noun 1>
+			<attribute number="singular"/>
+			<attribute type="object"/>
+			<description>Object</description>
+		</noun>
+		<noun 2>
+			<attribute number="plural"/>
+			<attribute type="object"/>
+			<description>Objects</description>
+		</noun>
+		<noun 3>
+			<attribute number="plural"/>
+			<attribute type="person"/>
+			<description>Group of people</description>
+		</noun>
+		<noun 4>
+			<attribute number="plural"/>
+			<attribute type="object"/>
+			<description>Objects</description>
+		</noun>
+		<noun 5>
+			<attribute number="plural"/>
+			<attribute type="object"/>
+			<description>Objects</description>
+		</noun>
+		<noun 6>
+			<attribute number="plural"/>
+			<attribute type="object"/>
+			<description>Objects</description>
+		</noun>
+		<noun 7>
+			<attribute number="singular"/>
+			<attribute type="object"/>
+			<description>Object</description>
+		</noun>
+		<noun 8>
+			<attribute number="singular"/>
+			<attribute type="object"/>
+			<description>Object</description>
+		</noun>
+		<verb 1>
+			<attribute form="infinitive"/>
+			<description>Verb in infinitive, to be followed by object: ___ something</description>
+		</verb>
+		<verb 2>
+			<attribute form="progressive"/>
+			<description>Verb in -ing form</description>
+		</verb>
+		<adjective 1>
+			<attribute comparison="positive"/>
+			<description>Adjective in positive</description>
+		</adjective>
+		<adjective 2>
+			<attribute comparison="comparative"/>
+			<description>Adjective in comparative</description>
+		</adjective>
+		<adjective 3>
+			<attribute comparison="positive"/>
+			<description>Adjective in positive</description>
+		</adjective>
+		<adjective 4>
+			<attribute comparison="positive"/>
+			<description>Adjective in positive</description>
+		</adjective>
+		<adjective 5>
+			<attribute comparison="positive"/>
+			<description>Adjective in positive</description>
+		</adjective>
+		<adjective 6>
+			<attribute comparison="positive"/>
+			<description>Adjective in positive</description>
+		</adjective>
+		<adjective 7>
+			<attribute comparison="positive"/>
+			<description>Adjective in positive</description>
+		</adjective>
+		<adjective 8>
+			<attribute comparison="positive"/>
+			<description>Adjective in positive</description>
+		</adjective>
+		<adjective 9>
+			<attribute comparison="positive"/>
+			<description>Adjective in positive</description>
+		</adjective>
+		<adjective 10>
+			<attribute comparison="positive"/>
+			<description>Adjective in positive</description>
+		</adjective>
+	</gaps>
+	<text>
+It was one of these nights Inspector [name 1] knew all too well. It was new moon and the streets were pitch black in [name 3]. Ideal conditions to [verb 1] a [noun 1]. There were still [adjective 1] [noun 2] left over when [name 1] arrived with her partner Inspector [name 2]. It must have just happened. "Had we only been [adjective 2]!" thought [name 2]. We might have caught them. But there was nothing the two [adjective 3] Inspectors could do. The [noun 3] were gone with the wind.
+
+Or were they? Suddenly [name 1] heard something behind her. She turned around. Nothing. Just a bunch of [adjective 4] [noun 4]. So they continued to secure the evidence. Then. Quickly. A hush. They could definitely hear someone [verb 2] behind a nearby fence. [name 2] decided to investigate the [adjective 5] noises closer. But as the Inspector approached, a [adjective 6] man quickly ran away. In the darkness there was only his [adjective 7] silhouette. "Damn it! [phrase 1]" thought [name 2].
+
+And so they continued to investigate the scene. They opened a [adjective 8] trash can. Apart from a few [noun 5] and [adjective 9] [noun 6] there was nothing. Frustration grew. Then [name 1] had an idea: "[name 2] look! That [noun 7] over there looks suspicious!" I bet someone is behind it. Both got out their guns and pointed at the [noun 7] in the darkness. And suddenly, out of nothing, a [noun 8] appeared behind the [noun 7]. Both were in panic and fired their guns! They didn't miss. They killed the [noun 8].
+
+Both knew what that meant. "Kill one more [noun 8] and you're out!" had their boss said just yesterday. And so both just stared each other in the eyes. It was one of these stares between [name 1] and [name 2] that said everything - "[phrase 2]". So both decided to keep the incident their little secret. No one needed to know that they shot a [noun 8]. And to this day, no one in [name 3] except two [adjective 10] Inspectors knows what happened in that dark night.
+	</text>
+</story>
